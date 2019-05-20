@@ -11,27 +11,27 @@ class App extends Component {
                 <div className="Side-drawer">
                     <h1 className="white-title">Grados</h1>
                     <Link to="/cuarto-grado">
-                        <h2>Cuarto (8-9 Años)</h2>
+                        <h2>Cuarto </h2>
                     </Link>
 
                     <Link to="/quinto-grado">
-                        <h2>Quinto (9-10 Años)</h2>
+                        <h2>Quinto </h2>
                     </Link>
 
                     <Link to="/sexto-grado">
-                        <h2>Sexto (10-11 Años)</h2>
+                        <h2>Sexto </h2>
                     </Link>
 
                     <Link to="/septimo-grado">
-                        <h2>Septimo (11-12 Años)</h2>
+                        <h2>Septimo </h2>
                     </Link>
 
                     <Link to="/octavo-grado">
-                        <h2>Octavo (12-13 Años)</h2>
+                        <h2>Octavo </h2>
                     </Link>
 
                     <Link to="/noveno-grado">
-                        <h2>Noveno (13 - 14 Años)</h2>
+                        <h2>Noveno </h2>
                     </Link>
 
                     <Link to="/padres">
