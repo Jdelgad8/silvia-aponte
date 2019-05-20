@@ -1,0 +1,191 @@
+
+  body {
+      margin: 0;
+      font-family: Arial;
+      background: #f3f4f8
+  }
+
+  h1 {
+    font-family: 'Franklin Gothic Medium';
+    padding-right: 50px;
+    color: #00a0e5;
+  }
+
+  h2 {
+    font-family: 'Franklin Gothic Medium';
+  }
+
+  h3 {
+    font-family: 'Franklin Gothic Medium';
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+
+  }
+
+
+
+.Horizontal{
+  display: flex;
+  flex-direction: row;
+
+}
+.Vertical{
+  display: flex;
+  flex-direction: column;
+}
+
+.texto-blanco{
+  color: white;
+}
+
+.Horizontal-padding{
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  align-items: flex-start;
+  vertical-align: center;
+  justify-content: center;
+}
+
+.Center{
+  display: flex;
+  direction: Vertical;
+  vertical-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.Videos{
+  width: 550px;
+  height: auto;
+  padding: 10px;
+}
+
+.boton{
+  padding: 5px 25px;
+  background-color: #00a0e5;
+  border-radius: 10px;
+  border-color: white;
+  border: 0;
+  margin: 5px;
+  width: auto;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.boton a{
+  text-decoration: none;
+  text-decoration-line: none;
+  color: white;
+  width: 100%;
+  height: 100%;
+  text-emphasis: none;
+}
+
+.white-title {
+  color: white;
+  line-height: 1;
+  text-align: center;
+}
+
+.Header {
+  background-color: #00a0e5;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.Side-drawer{
+  width: 20%;
+  background-color: #00a0e5;
+  height: 100vh;
+  padding-top: 30px;
+  justify-content: center;
+  padding-left: 30px;
+}
+
+.Home{
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#cuarto {
+  background-image: url('./images/background-cuarto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+}
+
+#quinto {
+  background-image: url('./images/background-quinto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+
+}
+
+#sexto {
+  background-image: url('./images/background-sexto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+
+}
+
+p {
+  color: black;
+  font-weight: bold;
+}
+
+#septimo {
+  background-image: url('./images/background-septimo.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+}
+
+#octavo {
+  background-image: url('./images/background-octavo.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+}
+
+#noveno {
+  background-image: url('./images/background-noveno.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+}
+
+#padres {
+  background-image: url('./images/background-padres.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+}
